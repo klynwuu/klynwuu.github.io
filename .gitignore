@@ -582,3 +582,6 @@ MigrationBackup/
 .history/*
 .env
 .env/*
+.cursorrules
+.cursor
+.cursor/*
